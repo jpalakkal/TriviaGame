@@ -8,7 +8,8 @@
 	-Time delay happens just as before, then next question pops up
 
 	-At end of game, notes pop up:
-		"Game Over!"
+		Time remaining
+		"Game Over! Here's how you did"
 		Correct Guesses
 		Incorrect Guesses
 		Unanswered
